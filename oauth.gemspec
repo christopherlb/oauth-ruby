@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.date = %q{2011-06-25}
   s.description = %q{OAuth Core Ruby implementation}
   s.email = %q{oauth-ruby@googlegroups.com}
-  s.executables = ["oauth"]
+  s.executables = ["bin/oauth"]
   s.extra_rdoc_files = [
     "LICENSE",
     "README.rdoc",
